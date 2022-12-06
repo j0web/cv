@@ -7,30 +7,30 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Brandon Erbschloe
+    tagline: Senior Mobile Developer
+    avatar: profile.png 
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: berbschloe@gmail.com
+    # phone: 012 345 6789
+    timezone: America/Chicago Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: #do not add http://
+    linkedin: brandon-erbschloe-757a4588
+    xing: 
+    github: berbschloe
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: '@berbschloe'
+    stack-overflow: 4777830/brandon-erbschloe # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: assets/PDFs/Resume.pdf
 
     languages:
-      title: Languages
+      title: Skills
       info:
         - idiom: English
           level: Native
@@ -65,28 +65,10 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: BSc in Computer Science
+        university: University of Missouri
+        time: 2013 - 2019
+        details:
 experiences:
     title: Experiences
     info:
@@ -197,25 +179,26 @@ publications:
 
 skills:
     title: Skills &amp; Proficiency
-
+    enable: True
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: iOS - Swift & Obj-C
+        level: 100%
+        years: 11
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Android - Kotlin & Java
+        level: 70%
+        years: 7
 
-      - name: Angular
-        level: 98%
+      - name: React - Typescript
+        level: 30%
+        years: 3
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Backend - Node, Ruby, and Django
+        level: 20%
+        years: 2
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: ML - C++ & Python
+        level: 20%
+        years: 2
 
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer:
