@@ -30,6 +30,7 @@ sidebar:
     pdf: assets/PDFs/Resume.pdf
 
     languages:
+      enable: True
       title: Skills
       info:
         - idiom: English
@@ -42,6 +43,7 @@ sidebar:
           level: Professional
 
     interests:
+      enable: True
       title: Interests
       info:
         - item: Climbing
@@ -54,62 +56,45 @@ sidebar:
           link:
 
 career-profile:
+    enable: True
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Senior Mobile Software Engineer with over a decade of industry experience. 
+      Co-Founded QuarkWorks, a mobile software development agency. 
+      Developed for and led multiple engineering teams in the domains of:
+      event ticketing, payment processing, ecommerce, social networks, autonomous construction equipment, health / fitness,
+      and real time video ML processing.
+
 education:
+    enable: True
     title: Education
     info:
-      - degree: BSc in Computer Science
+      - degree: BS in Computer Science
         university: University of Missouri
         time: 2013 - 2019
         details:
+
 experiences:
+    enable: True
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Senior Engineer & Co-Founder
+        time: Janurary 2021 - Present
+        company: Hallway Video Communication
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Developed and released cross platform (mac, windows, web) motion tracking software that 
+          replaces your face with a virtual avatar that can be used for video calls and live streaming. 
+          Joined the 2022 Sequa Arc Cohort and Scale Accelerator startup programs.
+      - role: Senior Mobile Engineer
+        time: June 2012 - December 2020
+        company: QuarkWorks
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Co-Founded and grew a multi-client development agency from 3 to 30 employees. 
+          Developed and led mobile teams for companies such as Gametime, Eventbrite, Handshake, Houseparty, 
+          Equipmentshare, Trynow, Paceline, Epic Games, and Reddit.
+
 projects:
+    enable: True
     title: Projects
     intro: >
       You can list your side projects in this
@@ -137,6 +122,7 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
+    enable: True
     title: OSS Contributions
     intro: >
       You can list your open source software contributions in this
@@ -156,6 +142,7 @@ oss:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
+    enable: True
     title: Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
@@ -178,8 +165,8 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
     enable: True
+    title: Skills &amp; Proficiency
     toolset:
       - name: iOS - Swift & Obj-C
         level: 100%
@@ -202,3 +189,5 @@ skills:
         years: 2
 
 footer:
+    enable: True
+    copyright:
