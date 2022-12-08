@@ -6,24 +6,24 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Brandon Erbschloe
-    tagline: Senior Mobile Developer
+    name: Joachim Murat-Delfau
+    tagline: Technico-Commercial spécialisé en Optique-Lunetterie
     avatar: profile.png 
 
     # Sidebar links
-    email: berbschloe@gmail.com
+    email: contact@joachim.page
     # phone: 012 345 6789
-    timezone: America/Chicago Timezone
+    timezone: Europe/Paris Timezone
     citizenship:
-    website: #do not add http://
-    linkedin: brandon-erbschloe-757a4588
+    website: joachim.page #do not add http://
+    linkedin: https://www.linkedin.com/in/mdjoachim/
     xing: 
-    github: berbschloe
+    github: j0web
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@berbschloe'
-    stack-overflow: 4777830/brandon-erbschloe # Number/Username, e.g. 123456/alandoe
+    twitter: '@j0web'
+    stack-overflow: # 4777830/brandon-erbschloe # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: assets/PDFs/Resume.pdf
@@ -32,15 +32,11 @@ sidebar:
       enable: True
       title: Skills
       info:
-        - idiom: English
-          level: Native
-
         - idiom: French
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
-
+        - idiom: English
+          level: Intermediate
     interests:
       enable: True
       title: Interests
@@ -48,13 +44,7 @@ sidebar:
         - item: Biking
           link:
 
-        - item: Geography
-          link:
-
-        - item: Weight Lifting
-          link:
-
-        - item: Grilling
+        - item: Running
           link:
 
 career-profile:
